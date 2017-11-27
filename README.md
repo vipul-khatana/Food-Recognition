@@ -6,7 +6,7 @@ In this project we tackle the problem of recognizing a food item from an image a
 ## Techniques Employed 
 The following is a simple flowchart of how the task is achieved 
 
-<img src="flow_chart.png" alt="Drawing" width="200" height="200"/>
+<img src="flow_chart.png" alt="Drawing" width="400" height="200"/>
 
 + **Segementation** - We first of all convert the image into it's RGB form. 
 
