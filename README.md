@@ -14,11 +14,15 @@ In this project we focus on step 3,4 and 5 which have been explained in brief be
 
 + **Feature Extraction** - Color feature extraction was done using [k-means algorithm](https://en.wikipedia.org/wiki/K-means_clustering). While the [Local Binary Pattern](https://en.wikipedia.org/wiki/Local_binary_patterns) operator was used for texture extraction. 
 
-+ **Classification** - Support Vector Machine(SVM) with a RBF Kernel is used for the process of classification. 
++ **Classification** - Support Vector Machine(SVM) with an RBF Kernel is used for the process of classification. 
+
+## Usage 
+Keep all the files in the same directory and open main.m in MATLAB. Run this file and chose the image you want to classify. Since as of now, it is being employed only for 5 items so please make sure that the image belongs to one of those 5 categories. 
 
 
-Authors: 
-#Vipul Khatana
-#Hemant Poonia. 
 
-Project under Dr. Brejesh Lall.
+## Author: 
+* [Vipul Khatana](https://github.com/vipul-khatana)
+* Hemant Poonia. 
+
+Project under [**Dr. Brejesh Lall**](http://ee.iitd.ernet.in/people/brijeshlall.html)
