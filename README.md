@@ -10,7 +10,7 @@ The following is a simple process chart of how the task is achieved
 
 In the work we only concentrate on step 3,4 and 5 which have been explained in brief below 
 
-+ **Segementation** - Mean shift algorithm was applied for the process of segmentation. It consisted of five steps : [**CIELAB conversion**](https://en.wikipedia.org/wiki/Lab_color_space), Pyramidal mean-shift filtering, Region growing, Region merging, Plate Detection/Background deletion 
++ **Segementation** - Mean shift algorithm was applied for the process of segmentation. It consisted of five steps : [**CIELAB conversion**](https://en.wikipedia.org/wiki/Lab_color_space), [**Pyramidal mean-shift filtering**](https://en.wikipedia.org/wiki/Mean_shift), [Region growing](https://en.wikipedia.org/wiki/Region_growing), [Region merging](https://en.wikipedia.org/wiki/Statistical_region_merging), [Plate Detection/Background deletion](https://en.wikipedia.org/wiki/Background_subtraction) 
 
 
 Authors: 
