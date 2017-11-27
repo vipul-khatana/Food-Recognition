@@ -8,7 +8,9 @@ The following is a simple process chart of how the task is achieved
 
 <img src="flow_chart.png" alt="Drawing" width="500" height="300"/>
 
-+ **Segementation** - We first of all convert the image into it's RGB form. 
+In the work we only concentrate on step 3,4 and 5 which have been explained in brief below 
+
++ **Segementation** - Mean shift algorithm was applied for the process of segmentation. It consisted of five steps : [**CIELAB conversion**](https://en.wikipedia.org/wiki/Lab_color_space), Pyramidal mean-shift filtering, Region growing, Region merging, Plate Detection/Background deletion 
 
 
 Authors: 
