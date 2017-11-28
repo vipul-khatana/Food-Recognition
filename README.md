@@ -16,7 +16,7 @@ In this project we focus on step 3,4 and 5 which have been explained in brief be
 
 + **Classification** - Support Vector Machine(SVM) with an RBF Kernel is used for the process of classification. 
 
-## Usage 
+## How to run
 Keep all the files in the same directory and open main.m in MATLAB. Run this file and chose the image you want to classify. Since as of now, it is being employed only for 5 items so please make sure that the image belongs to one of those 5 categories. 
 
 
@@ -26,3 +26,11 @@ Keep all the files in the same directory and open main.m in MATLAB. Run this fil
 * Hemant Poonia. 
 
 Project under [**Dr. Brejesh Lall**](http://ee.iitd.ernet.in/people/brijeshlall.html)
+
+## Contributing
+
+1) Fork it (https://github.com/vipul-khatana/Food-Recognition/fork)
+2) Create your feature branch `git checkout -b feature/fooBar`
+3) Commit your changes `git commit -am 'Add some fooBar'`
+4) Push to the branch `git push origin feature/fooBar`
+5) Create a new pull request 
