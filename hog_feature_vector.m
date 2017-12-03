@@ -1,3 +1,7 @@
+% Created on Sat Oct 29 06:34:46 2016
+% @author: vipulkhatana
+
+
 function [feature angle magnitude] = hog_feature_vector(im)
 
 % This finds the HOG feature vector for any given image. HOG
