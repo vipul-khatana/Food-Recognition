@@ -1,4 +1,4 @@
-% Created on Sat Oct 29 06:34:46 2016
+% Created on Sat Oct 29 09:04:26 2016
 % @author: vipulkhatana
 
 function [resultAnswer] = multisvm(TrainingSet,GroupTrain,TestSet,AR)
