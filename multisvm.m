@@ -1,3 +1,6 @@
+% Created on Sat Oct 29 06:34:46 2016
+% @author: vipulkhatana
+
 function [resultAnswer] = multisvm(TrainingSet,GroupTrain,TestSet,AR)
 %Models a given training set with a corresponding group vector and 
 %classifies a given test set using an SVM classifier according to a 
