@@ -1,3 +1,6 @@
+% Created on Sat Oct 29 06:34:46 2016
+% @author: vipulkhatana
+
 function [result] = imageClassify(filePath)
 
 % warning ('off');
@@ -27,16 +30,6 @@ Ig=rgb2gray(I);
 Red=I(:,:,1);
 Green=I(:,:,2);
 Blue=I(:,:,3);
-
-% figure,imshow(Red,[]);   %%%% show the image  %%%%%
-% title('Red channel image');
-% 
-% figure,imshow(Green,[]);   %%%% show the image  %%%%%
-% title('Green channel image');
-% 
-% figure,imshow(Blue,[]);   %%%% show the image  %%%%%
-% title('Blue channel image');
-
 
 %%%ENHANCEMENT%%%
 enh=histeq(Ig);
