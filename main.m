@@ -1,5 +1,5 @@
 %Created Sat Oct 29 2016 
-%@author vipulkhatana
+%@author vipulkhatana hemantsingh 
 
 warning ('off');
 clc;
