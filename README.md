@@ -1,5 +1,12 @@
 # Food-Recognition
 
+## Sections 
++ [Objective](https://github.com/vipul-khatana/Food-Recognition#objective)
++ [Technique Employed](https://github.com/vipul-khatana/Food-Recognition#techniques-employed)
++ [How to run](https://github.com/vipul-khatana/Food-Recognition#how-to-run)
++ [Author](https://github.com/vipul-khatana/Food-Recognition#author)
++ [Contributing](https://github.com/vipul-khatana/Food-Recognition#contributing)
+
 ## Objective
 In this project we tackle the problem of recognizing a food item from an image and subsequently measuring the calorie intake from the image of the dishes being consumed. This part deals with only recognising the food item. The work here has been done on identifying rice, bread, puri, idli and dosa, all of which are Indian cuisine. This project finds application in the area of health analytics, where dieticians can recommend their patients the calorie intake, and the patients by using an app can take the photo of the meal they consume and keep track of their calorie in take.Further the data of calorie intake can also be used to find the co relation between the calorie consumption and the various health problems.  
 
@@ -23,7 +30,7 @@ Run this file and chose the image you want to classify. Since as of now, it is b
 
 ## Author: 
 * [Vipul Khatana](https://github.com/vipul-khatana)
-* Hemant Poonia. 
+* Hemant Singh 
 
 Project under [**Dr. Brejesh Lall**](http://ee.iitd.ernet.in/people/brijeshlall.html)
 
