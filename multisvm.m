@@ -1,5 +1,5 @@
 % Created on Sat Oct 29 2016
-% @author: vipulkhatana hemantsingh 
+% @author: vipulkhatana 
 
 function [resultAnswer] = multisvm(TrainingSet,GroupTrain,TestSet,AR)
 %Models a given training set with a corresponding group vector and 
