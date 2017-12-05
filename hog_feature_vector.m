@@ -1,5 +1,5 @@
 % Created on Sat Oct 29 2016
-% @author: vipulkhatana hemantsingh
+% @author: vipulkhatana 
 
 
 function [feature angle magnitude] = hog_feature_vector(im)
