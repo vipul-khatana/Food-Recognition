@@ -30,7 +30,6 @@ Run this file and chose the image you want to classify. Since as of now, it is b
 
 ## Author: 
 * [Vipul Khatana](https://github.com/vipul-khatana)
-* Hemant Singh 
 
 Project under [**Dr. Brejesh Lall**](http://ee.iitd.ernet.in/people/brijeshlall.html)
 
